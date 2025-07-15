@@ -5,5 +5,7 @@
 // console.log(s1.cgpa);
 
 
-const {getName}= require('./student')
-console.log(getName());
+// const {getName}= require('./student')
+// console.log(getName());
+
+
