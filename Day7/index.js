@@ -1,7 +1,7 @@
 const http = require('http')
 const fs = require('fs')
 const port = 3000
-const hostName = '192.168.101.227'
+const hostName = '127.0.0.1'
 
 const server = http.createServer((req, res) => {
     if (req.url === '/') {
